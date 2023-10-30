@@ -41,7 +41,9 @@
 				'transform #{_duration(article)} ease-in-out',
 				'filter #{_duration(article)} ease-in-out'
 			));
-			background-image:		url('../../images/bg.jpg');
+			// background-image:		url('../../images/bg.jpg');
+			// Changing bg image
+			background-image:		url('https://images.unsplash.com/photo-1656139789469-e84efe50a9e2?auto=format&fit=crop&q=80&w=1740&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 			background-position:	center;
 			background-size:		cover;
 			background-repeat:		no-repeat;
